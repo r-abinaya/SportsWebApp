@@ -1,0 +1,99 @@
+html{
+  scroll-behavior: smooth;
+}
+.ul1{
+    display:inline;
+    
+  }
+  nav{
+    
+    text-align: center;
+    padding:10px;
+  
+   
+    height:40px;
+  }
+  li{
+    padding:70px;
+  }
+  .nav-a{
+    text-decoration: none;
+    padding: 16px;
+  }
+  .nav-a:hover{
+    background-color: skyblue;
+  }
+  head{
+padding:0px;
+margin:0px;
+}
+.ll{
+  padding-left: 20px;
+}
+body{
+ 
+background-image:url(feminine-sports-equipment-pastel-beige-background-dumbbells-t-shirt-sneakers-top-view-healthy-lifestyle-workouts-training-240926095\ \(1\).jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+font-family: 'Tapestry', cursive;
+padding:0px;
+margin:0;
+}
+
+h1{
+  font-size: 40px;
+
+  position: absolute;
+  margin-top: 0px;
+  padding-top: 10px;
+  text-align: center;
+
+  color:blue;
+
+  display:inline;
+   
+
+}
+
+.btn:hover{
+    background-color:skyblue;
+   
+}
+.btn {
+   
+   padding: 10px;
+   margin-left: 10px;
+   border-style: solid;
+   border-radius: 50px;
+  }
+.s2{
+padding-left: 20px;
+padding-right: 20px;
+}
+h2{
+text-align:center;
+margin-right: 10%;
+color: rgb(45, 14, 97);
+}
+.img1{
+ margin-left: 40%;
+ 
+}
+.it{
+height:150px;
+width:150px;
+}
+section{
+margin-left: 20px;
+}
+.in{
+display:inline-block;
+margin-left: 10%;
+background-color: rgba(184, 178, 168,0.3);
+padding: 20px;
+}
+
+
+
